@@ -1,0 +1,35 @@
+####
+## check - needs quotes for "111 Gr.. ??"
+##  needs quotes for , or + or - ??
+
+- title:     "111 Gründe, Bier zu lieben"
+  subtitle:  Das Buch gegen den Durst
+  author:    Marc Halupczok
+  publisher: Schwarzkopf + Schwarzkopf
+  tags:      de, culture, history
+  isbn:      978-3-86265-399-7
+  cover:     111-gruende-bier-zu-lieben.jpg
+
+- title:     Bier in Wien (A La Carte)
+  author:    Christian Grünwald (Herausgeber)
+  publisher: D + R Verlagsgesellschaft
+  tags:      de, wien, vienna, city guide
+  isbn:      978-3-902469-52-6
+  cover:     bier-in-wien.jpg
+
+- title:     Bierführer Oberbayern
+  subtitle:  Alle Brauereien - alle Biere 
+  author:    Harald Schieder, Ralph Forster
+  publisher: Carl Fachverlag, Hans
+  isbn:      978-3-418-00123-4
+  cover:     bierfuehrer-oberbayern.jpg
+  tags:      de, oberbayern, region guide
+
+- title:     Ozapft is! Das Wiesn-Handbuch 
+  author:    Moses Wolff
+  publisher: Goldmann 
+  isbn:      978-3-442-31311-2
+  cover:     ozapft-is-das-wiesn-handbuch.jgp
+  tags:      de, munich, wiesn, culture, history
+
+

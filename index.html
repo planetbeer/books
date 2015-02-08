@@ -16,12 +16,14 @@ title:  "Beer Books 'n' Maps"
 {% include welcome.html %}
 
 
+<h2>English</h2>
+
 <div class='gallery'>
-{% for book in site.data.books %}
+{% for book in site.data.books-en limit:6 %}
 
   <div class='book'>
     <div class='book-img'>
-        <img src="{{site.url}}/i/{{book.cover}}">
+        <img src="{{site.url}}/i/en/{{book.cover}}">
     </div>
     <div class='book-title'>
         {{ book.title }}
@@ -34,3 +36,26 @@ title:  "Beer Books 'n' Maps"
 
 {% endfor %}
 </div>
+
+
+<h2>Deutsch (German)</h2>
+
+<div class='gallery'>
+{% for book in site.data.books-de limit:6 %}
+
+  <div class='book'>
+    <div class='book-img'>
+        <img src="{{site.url}}/i/de/{{book.cover}}">
+    </div>
+    <div class='book-title'>
+        {{ book.title }}
+        {% if book.edition %}
+          {{ book.edition}}
+        {% endif %}
+        by {{ book.author }}; {{ book.publisher }}
+    </div>
+  </div>
+
+{% endfor %}
+</div>
+
