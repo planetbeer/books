@@ -1,0 +1,31 @@
+- title:     Good Beer Guide United Kingdom
+  edition:   2015, 42nd Edition
+  author:    Roger Protz
+  publisher: CAMRA Books
+  lang:      en
+  tags:      uk,eng,sco,wal,nir,country guide
+  isbn:      978-1-85249-320-2
+  cover:     good-beer-guide-2015.jpeg
+- title:     London Pub Walks
+  edition:   2nd Edition
+  author:    Bob Steel
+  publisher: CAMRA Books 
+  lang:      en
+  tags:      uk,eng,london,city pub guide
+  isbn:      978-1-85249-310-3
+  cover:     london-pub-walks.jpeg
+- title:     300 Beers to Try Before You Die!
+  author:    Roger Protz
+  publisher: CAMRA Books
+  tags:      world,uk,eng,us,best of guide
+  isbn:      978-1-85249-273-1
+  cover:     300-beers-to-try.jpeg
+- title:     Beer in the Netherlands
+  author:    Tim Skelton
+  publisher: The Homewood Press
+  lang:      en
+  tags:      nl, country guide
+  isbn:      978-0-95727-871-4
+  cover:     beer-in-the-netherlands.jpeg
+
+

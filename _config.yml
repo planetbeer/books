@@ -1,0 +1,24 @@
+###########
+# site.url, site.title
+
+url:   'http://planetbeer.github.io/books'
+title: 'Planet Beer'
+
+########
+# more settings
+
+markdown: kramdown
+
+
+sass:
+  sass_dir: css
+  style:    expanded
+
+
+exclude:
+- README.md
+
+
+safe: true
+lsi: false
+
